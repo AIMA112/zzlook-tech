@@ -1,9 +1,6 @@
 1. Selenium WebDriver:
    Description:
-Selenium WebDriver is one of the most widely used open-source automation frameworks for web applications. It provides a programming interface to interact with web elements,
-simulate user actions, and perform automated testing across various browsers.
-   Key Features:
-Cross-browser testing, support for multiple programming languages (e.g., Java, Python, C#), robust element locators, and integration with testing frameworks like JUnit and TestNG.
+Selenium WebDriver is one of the most widely used open-source automation frameworks for web applications. It provides a programming interface to interact with web elements, simulate user actions, and perform automated testing across various browsers.
 
 2. Cypress:
    -Description:
